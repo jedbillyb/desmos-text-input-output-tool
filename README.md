@@ -24,4 +24,4 @@ Install from the Chrome Web Store *(link to come soon)*
 4. Edit if needed, then hit **Import** to load it back
 
 ## License
-MIT - Made with ❤️ by [jedbillyb](https://github.com/jedbillyb)
+[MIT](LICENSE.txt) - Made with ❤️ by [jedbillyb](https://github.com/jedbillyb)
