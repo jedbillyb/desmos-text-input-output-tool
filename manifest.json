@@ -14,7 +14,7 @@
       "js": [ "content.bundle.js" ],
       "matches": [ "https://www.desmos.com/*" ]
    } ],
-   "description": "import/export Desmos graphs as text (json).",
+   "description": "Import/Export Desmos graphs as text (json).",
    "icons": {
       "128": "icons/icon128.png",
       "16": "icons/icon16.png",
@@ -23,8 +23,8 @@
       "64": "icons/icon64.png"
    },
    "manifest_version": 3,
-   "name": "Desmos Text I/O",
-   "version": "1.2.0",
+   "name": "Desmos Text Input/Output Tool",
+   "version": "1.1.0",
    "web_accessible_resources": [ {
       "matches": [ "https://*/*" ],
       "resources": [ "injected.js" ]
