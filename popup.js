@@ -151,4 +151,4 @@ document.addEventListener("keydown", (e) => {
 
 window.addEventListener("load", checkTab);
 browser.tabs.onActivated.addListener(checkTab);
-browser.tabs.onUpdated.addListener(checkTab);s
+browser.tabs.onUpdated.addListener(checkTab);
