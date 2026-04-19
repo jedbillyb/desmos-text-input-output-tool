@@ -12,7 +12,7 @@ A browser extension for importing and exporting Desmos graphs as JSON text.
 ## Installation
 
 ### Firefox
-1. Install from [Firefox Add-ons](https://addons.mozilla.org/) *(coming soon)*
+1. Install from [Firefox Add-ons]([https://addons.mozilla.org/](https://addons.mozilla.org/en-US/firefox/addon/desmos-text-input-output)
 2. Or load as temporary add-on for development:
    - Download the latest release from the [releases page](https://github.com/yourusername/desmos-text-io/releases)
    - Open Firefox and go to `about:debugging`
